@@ -24,6 +24,14 @@ This repository covers a comprehensive range of topics, including:
 * Developers looking to transition into data science.
 * Anyone curious about leveraging Python for data insights!
 
+```
+pythonForDataScience/
+│── notebooks/       # Jupyter notebooks with step-by-step tutorials
+│── datasets/        # Sample datasets for analysis and experimentation
+│── README.md        # Project documentation
+```
+
+
 <!-- ## 🔧 Getting Started: Installation
 
 Follow these steps to get your environment set up:
@@ -59,3 +67,9 @@ Follow these steps to get your environment set up:
 To run the Jupyter notebooks:
 ```bash
 jupyter notebook -->
+
+
+## 📬 Have Questions?
+Reach out via **beinganujchaudhary@gmail.com** Happy Coding & Data Crunching! 🎉
+```
+
